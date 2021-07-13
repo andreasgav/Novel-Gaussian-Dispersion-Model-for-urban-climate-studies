@@ -8,4 +8,4 @@ The aim of this model was to determine the gaseous pollutant concentrations resu
 
 This model is available for scientific/academical research, on condition that a citation for the creators of this model is provided:
 
-#### Gavros, A., Karatzas, K.: Air pollution due to central heating of a city-centered university campus. (2021)
+#### Gavros, A., Karatzas, K.: Air pollution due to central heating of a city-centered university campus. International Conference on Environmental Informatics, 35th EnviroInfo 2021, Germany, 27-29 Berlin 2021 (2021)
