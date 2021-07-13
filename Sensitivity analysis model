@@ -575,6 +575,7 @@ print('Sensitivity analysis was completed and pollution data was stored in excel
 
 
 
+## It sould be mentioned that the following part of code should be run in Jupyter Notebook, as the heatmaps produced cannot be created in other Python editors ##
 
 
 
